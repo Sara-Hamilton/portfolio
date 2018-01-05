@@ -27,3 +27,10 @@
 .list-text{
   margin: 0;
 }
+
+footer {
+  background-color: darkslategray;
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+}

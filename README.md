@@ -1,24 +1,24 @@
 # Portfolio
 
-#### _portfolio website, 1-5-18_
+#### portfolio website, 1-5-18
 
 #### By _**Sara Hamilton**_
 
 ## Description
 
-_This is a portfolio website showing my projects with descriptions and links to their GitHub repositories.  There is also information about me including my background and interests._
+This is a portfolio website showing my projects with descriptions and links to their GitHub repositories.  There is also information about me including my background and interests.
 
 ## Setup/Installation Requirements
 
-* [view page] (Sara-Hamilton.github.io/portfolio)on GitHub pages
+view on [GitHub pages](Sara-Hamilton.github.io/portfolio)
 
 ## Known Bugs
 
-_There are no known bugs._
+There are no known bugs.
 
 ## Support and contact details
 
-_If you notice any errors or would like to suggest improvements, please submit a pull request through the GitHub repository._
+If you notice any errors or would like to suggest improvements, please submit a pull request through the GitHub repository.
 
 ## Technologies Used
 

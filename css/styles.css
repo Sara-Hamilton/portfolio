@@ -2,7 +2,8 @@
   width: 200px;
   float: left;
   margin-right: 50px;
-  border-radius:50%;
+  border-radius: 50%;
+  border: 5px solid darkslategray;
 }
 
 .jumbotron {
@@ -11,14 +12,15 @@
 
 .project {
   text-align: center;
-  background-color: gainsboro;
+  background-color: #eee;
   padding: 1rem 2rem 2rem 2rem;
   border: 1rem solid white;
+  height: 27rem;
 }
 
 .project-title {
-  background-color: gray;
-  color: #E5e4e2;
+  background-color: darkslategray;
+  color: #eee;
   padding: 0.5rem;
 }
 

@@ -13,6 +13,7 @@ This is a portfolio website showing my projects with descriptions and links to t
 * git clone week-in-review repository
 * open in text editor
 * open index.html in web browser  
+
 view on [GitHub pages](Sara-Hamilton.github.io/portfolio)
 
 ## Known Bugs

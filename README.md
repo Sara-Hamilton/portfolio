@@ -14,7 +14,7 @@ This is a portfolio website showing my projects with descriptions and links to t
 * open in text editor
 * open index.html in web browser  
 
-view on [GitHub pages](Sara-Hamilton.github.io/portfolio)
+view on [GitHub pages](https://sara-hamilton.github.io/portfolio/)
 
 ## Known Bugs
 
